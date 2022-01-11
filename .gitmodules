@@ -1,0 +1,4 @@
+[submodule "Captivea-pat/DashboardAPPLW"]
+	path = Captivea-pat/DashboardAPPLW
+	url = git@github.com:Captivea-pat/DashboardAPPLW.git
+	branch = main
